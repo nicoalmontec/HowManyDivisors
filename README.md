@@ -1,0 +1,2 @@
+# 3 Divisors
+Given 2 natural numbers a and b (a < b) with at most 9 digits each. Show how many numbers in the range [a, b] have exactly 3 divisors. Example: In the range [11,50] the numbers that have exactly 3 divisors are 25 and 49, so 2 will be displayed.
